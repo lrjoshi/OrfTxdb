@@ -1,0 +1,18 @@
+Package: OrfTxdb
+Title: Full genome of Orf Virus Strain IA82
+Description: Full genome of Orf Virus Strain IA82
+Version: AY386263.1
+Author: Delhon et al.
+Maintainer: Lok Raj Joshi
+Organism: Orf Virus
+common_name: Orf virus
+provider: NCBI
+provider_version: AY386263.1
+release_date: Jan.2004
+release_name: Orf virus strain OV-IA82
+source_url: https://www.ncbi.nlm.nih.gov/nuccore/AY386263.1
+organism_biocview: AnnotationData, BSgenome, orf_virus 
+
+seqnames: orfv.fasta
+SrcDataFiles: orfv.fasta
+seqfiles_prefix: .fasta
